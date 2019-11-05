@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff9b00</color>
+    <color name="colorPrimaryDark">#e65400</color>
+    <color name="colorAccent">#07b0fe</color>
+
+    <color name="loginLight">#4DFFFFFF</color>
+    <color name="loginLighter">#FFFFFF</color>
+    <color name="loginMedium">#80FFFFFF</color>
+
+    <color name="cardPrimary">#FFDEBA</color>
+    <color name="cardDark">#FFC18A</color>
+</resources>
